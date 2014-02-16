@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<store>
+	<id><![CDATA[1]]></id>
+	<id_country xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/countries/21"><![CDATA[21]]></id_country>
+	<id_state xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/states/9"><![CDATA[9]]></id_state>
+	<hours not_filterable="true"><![CDATA[09:00 - 19:00;09:00 - 19:00;09:00 - 19:00;09:00 - 19:00;09:00 - 19:00;10:00 - 16:00;10:00 - 16:00]]></hours>
+	<name><![CDATA[Dade County]]></name>
+	<address1><![CDATA[3030 SW 8th St Miami]]></address1>
+	<address2></address2>
+	<postcode><![CDATA[ 33135]]></postcode>
+	<city><![CDATA[Miami]]></city>
+	<latitude><![CDATA[25.76500500]]></latitude>
+	<longitude><![CDATA[-80.24379700]]></longitude>
+	<phone></phone>
+	<fax></fax>
+	<note></note>
+	<email></email>
+	<active><![CDATA[1]]></active>
+	<date_add><![CDATA[2014-02-15 16:59:56]]></date_add>
+	<date_upd><![CDATA[2014-02-15 16:59:56]]></date_upd>
+</store>
+</prestashop>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prestashop>
+    <cart>
+        <id>1</id>
+        <id_address_delivery>2</id_address_delivery>
+        <id_address_invoice>2</id_address_invoice>
+        <id_currency>1</id_currency>
+        <id_customer>1</id_customer>
+        <id_guest>1</id_guest>
+        <id_lang>1</id_lang>
+        <id_shop_group>1</id_shop_group>
+        <id_shop>1</id_shop>
+        <id_carrier>2</id_carrier>
+        <recyclable>1</recyclable>
+        <gift>0</gift>
+        <gift_message></gift_message>
+        <mobile_theme>0</mobile_theme>
+        <delivery_option></delivery_option>
+        <secure_key>c5585b26671f10f7934f28a601bd785d</secure_key>
+        <allow_seperated_package>0</allow_seperated_package>
+        <date_add>2014-02-15 16:59:51</date_add>
+        <date_upd>2014-02-16 09:32:42</date_upd>
+        <associations>
+            <cart_rows>
+                <cart_row>
+                    <id_product>5</id_product>
+                    <id_product_attribute>11</id_product_attribute>
+                    <id_address_delivery>0</id_address_delivery>
+                    <quantity>1</quantity>
+                </cart_row>
+                <cart_row>
+                    <id_product>7</id_product>
+                    <id_product_attribute>0</id_product_attribute>
+                    <id_address_delivery>0</id_address_delivery>
+                    <quantity>1</quantity>
+                </cart_row>
+            </cart_rows>
+        </associations>
+    </cart>
+</prestashop>

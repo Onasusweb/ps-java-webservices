@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<guest>
+	<id><![CDATA[1]]></id>
+	<id_customer xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/customers/1"><![CDATA[1]]></id_customer>
+	<id_operating_system><![CDATA[0]]></id_operating_system>
+	<id_web_browser><![CDATA[0]]></id_web_browser>
+	<javascript><![CDATA[1]]></javascript>
+	<screen_resolution_x><![CDATA[1680]]></screen_resolution_x>
+	<screen_resolution_y><![CDATA[1050]]></screen_resolution_y>
+	<screen_color><![CDATA[32]]></screen_color>
+	<sun_java><![CDATA[1]]></sun_java>
+	<adobe_flash><![CDATA[1]]></adobe_flash>
+	<adobe_director><![CDATA[0]]></adobe_director>
+	<apple_quicktime><![CDATA[1]]></apple_quicktime>
+	<real_player><![CDATA[1]]></real_player>
+	<windows_media><![CDATA[0]]></windows_media>
+	<accept_language><![CDATA[en-us]]></accept_language>
+	<mobile_theme><![CDATA[0]]></mobile_theme>
+</guest>
+</prestashop>

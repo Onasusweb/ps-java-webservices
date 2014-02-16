@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<cart>
+	<id><![CDATA[1]]></id>
+	<id_address_delivery xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/addresses/2"><![CDATA[2]]></id_address_delivery>
+	<id_address_invoice xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/addresses/2"><![CDATA[2]]></id_address_invoice>
+	<id_currency xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/currencies/1"><![CDATA[1]]></id_currency>
+	<id_customer xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/customers/1"><![CDATA[1]]></id_customer>
+	<id_guest xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/guests/1"><![CDATA[1]]></id_guest>
+	<id_lang xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/languages/1"><![CDATA[1]]></id_lang>
+	<id_shop_group><![CDATA[1]]></id_shop_group>
+	<id_shop><![CDATA[1]]></id_shop>
+	<id_carrier><![CDATA[2]]></id_carrier>
+	<recyclable><![CDATA[1]]></recyclable>
+	<gift><![CDATA[0]]></gift>
+	<gift_message></gift_message>
+	<mobile_theme><![CDATA[0]]></mobile_theme>
+	<delivery_option></delivery_option>
+	<secure_key><![CDATA[c5585b26671f10f7934f28a601bd785d]]></secure_key>
+	<allow_seperated_package><![CDATA[0]]></allow_seperated_package>
+	<date_add><![CDATA[2014-02-15 16:59:51]]></date_add>
+	<date_upd><![CDATA[2014-02-16 09:32:42]]></date_upd>
+<associations>
+<cart_rows virtual_entity="true" node_type="cart_row">
+	<cart_row>
+	<id_product xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/products/5"><![CDATA[5]]></id_product>
+	<id_product_attribute xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/combinations/11"><![CDATA[11]]></id_product_attribute>
+	<id_address_delivery xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/addresses/0"><![CDATA[0]]></id_address_delivery>
+	<quantity><![CDATA[1]]></quantity>
+	</cart_row>
+	<cart_row>
+	<id_product xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/products/7"><![CDATA[7]]></id_product>
+	<id_product_attribute xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/combinations/0"><![CDATA[0]]></id_product_attribute>
+	<id_address_delivery xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/addresses/0"><![CDATA[0]]></id_address_delivery>
+	<quantity><![CDATA[1]]></quantity>
+	</cart_row>
+</cart_rows>
+</associations>
+</cart>
+</prestashop>

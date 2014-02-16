@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<order>
+	<id><![CDATA[1]]></id>
+	<id_address_delivery xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/addresses/2"><![CDATA[2]]></id_address_delivery>
+	<id_address_invoice xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/addresses/2"><![CDATA[2]]></id_address_invoice>
+	<id_cart xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/carts/1"><![CDATA[1]]></id_cart>
+	<id_currency xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/currencies/1"><![CDATA[1]]></id_currency>
+	<id_lang xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/languages/1"><![CDATA[1]]></id_lang>
+	<id_customer xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/customers/1"><![CDATA[1]]></id_customer>
+	<id_carrier xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/carriers/2"><![CDATA[2]]></id_carrier>
+	<current_state xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/order_states/1"><![CDATA[1]]></current_state>
+	<module><![CDATA[cheque]]></module>
+	<invoice_number><![CDATA[0]]></invoice_number>
+	<invoice_date><![CDATA[0000-00-00 00:00:00]]></invoice_date>
+	<delivery_number><![CDATA[0]]></delivery_number>
+	<delivery_date><![CDATA[0000-00-00 00:00:00]]></delivery_date>
+	<valid><![CDATA[0]]></valid>
+	<date_add><![CDATA[2014-02-15 16:59:55]]></date_add>
+	<date_upd><![CDATA[2014-02-15 16:59:55]]></date_upd>
+	<id_shop_group><![CDATA[1]]></id_shop_group>
+	<id_shop><![CDATA[1]]></id_shop>
+	<secure_key><![CDATA[47ce86627c1f3c792a80773c5d2deaf8]]></secure_key>
+	<payment><![CDATA[Chèque]]></payment>
+	<recyclable><![CDATA[0]]></recyclable>
+	<gift><![CDATA[0]]></gift>
+	<gift_message></gift_message>
+	<mobile_theme><![CDATA[0]]></mobile_theme>
+	<total_discounts><![CDATA[0.00]]></total_discounts>
+	<total_discounts_tax_incl><![CDATA[0.00]]></total_discounts_tax_incl>
+	<total_discounts_tax_excl><![CDATA[0.00]]></total_discounts_tax_excl>
+	<total_paid><![CDATA[626.37]]></total_paid>
+	<total_paid_tax_incl><![CDATA[626.37]]></total_paid_tax_incl>
+	<total_paid_tax_excl><![CDATA[523.72]]></total_paid_tax_excl>
+	<total_paid_real><![CDATA[0.00]]></total_paid_real>
+	<total_products><![CDATA[516.72]]></total_products>
+	<total_products_wt><![CDATA[618.00]]></total_products_wt>
+	<total_shipping><![CDATA[7.98]]></total_shipping>
+	<total_shipping_tax_incl><![CDATA[8.37]]></total_shipping_tax_incl>
+	<total_shipping_tax_excl><![CDATA[7.00]]></total_shipping_tax_excl>
+	<carrier_tax_rate><![CDATA[19.600]]></carrier_tax_rate>
+	<total_wrapping><![CDATA[0.00]]></total_wrapping>
+	<total_wrapping_tax_incl><![CDATA[0.00]]></total_wrapping_tax_incl>
+	<total_wrapping_tax_excl><![CDATA[0.00]]></total_wrapping_tax_excl>
+	<shipping_number></shipping_number>
+	<conversion_rate><![CDATA[1.000000]]></conversion_rate>
+	<reference><![CDATA[XKBKNABJK]]></reference>
+<associations>
+<order_rows virtual_entity="true" node_type="order_row">
+	<order_row>
+	<id><![CDATA[1]]></id>
+	<product_id><![CDATA[5]]></product_id>
+	<product_attribute_id><![CDATA[11]]></product_attribute_id>
+	<product_quantity><![CDATA[1]]></product_quantity>
+	<product_name><![CDATA[iPod touch - Capacité: 32Go]]></product_name>
+	<product_price><![CDATA[392.140500]]></product_price>
+	<unit_price_tax_incl><![CDATA[469.000000]]></unit_price_tax_incl>
+	<unit_price_tax_excl><![CDATA[392.140468]]></unit_price_tax_excl>
+	</order_row>
+	<order_row>
+	<id><![CDATA[2]]></id>
+	<product_id><![CDATA[7]]></product_id>
+	<product_attribute_id><![CDATA[0]]></product_attribute_id>
+	<product_quantity><![CDATA[1]]></product_quantity>
+	<product_name><![CDATA[Écouteurs à isolation sonore Shure SE210]]></product_name>
+	<product_price><![CDATA[124.581900]]></product_price>
+	<unit_price_tax_incl><![CDATA[149.000000]]></unit_price_tax_incl>
+	<unit_price_tax_excl><![CDATA[124.581940]]></unit_price_tax_excl>
+	</order_row>
+</order_rows>
+</associations>
+</order>
+</prestashop>

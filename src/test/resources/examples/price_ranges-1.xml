@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<price_range>
+	<id><![CDATA[1]]></id>
+	<id_carrier xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/carriers/2"><![CDATA[2]]></id_carrier>
+	<delimiter1><![CDATA[0.000000]]></delimiter1>
+	<delimiter2><![CDATA[10000.000000]]></delimiter2>
+</price_range>
+</prestashop>

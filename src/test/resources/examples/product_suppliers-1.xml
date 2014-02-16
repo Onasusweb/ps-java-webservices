@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<product_supplier>
+	<id><![CDATA[1]]></id>
+	<id_product xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/products/1"><![CDATA[1]]></id_product>
+	<id_product_attribute><![CDATA[0]]></id_product_attribute>
+	<id_supplier xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/suppliers/1"><![CDATA[1]]></id_supplier>
+	<id_currency xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/currencies/1"><![CDATA[1]]></id_currency>
+	<product_supplier_reference></product_supplier_reference>
+	<product_supplier_price_te><![CDATA[0.000000]]></product_supplier_price_te>
+</product_supplier>
+</prestashop>

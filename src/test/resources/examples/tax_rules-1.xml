@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<tax_rule>
+	<id><![CDATA[1]]></id>
+	<id_tax_rules_group xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/tax_rule_groups/1"><![CDATA[1]]></id_tax_rules_group>
+	<id_state><![CDATA[0]]></id_state>
+	<id_country xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/countries/3"><![CDATA[3]]></id_country>
+	<zipcode_from><![CDATA[0]]></zipcode_from>
+	<zipcode_to><![CDATA[0]]></zipcode_to>
+	<id_tax><![CDATA[1]]></id_tax>
+	<behavior><![CDATA[0]]></behavior>
+	<description></description>
+</tax_rule>
+</prestashop>
