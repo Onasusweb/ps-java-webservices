@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<tax_rule_group>
+	<id><![CDATA[1]]></id>
+	<name><![CDATA[DE Standard Rate (19%)]]></name>
+	<active><![CDATA[1]]></active>
+</tax_rule_group>
+</prestashop>

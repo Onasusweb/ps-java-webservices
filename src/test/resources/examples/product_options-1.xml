@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<product_option>
+	<id><![CDATA[1]]></id>
+	<is_color_group><![CDATA[0]]></is_color_group>
+	<group_type><![CDATA[select]]></group_type>
+	<position><![CDATA[0]]></position>
+	<name><language id="1" xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/languages/1"><![CDATA[Disk space]]></language><language id="2" xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/languages/2"><![CDATA[Speicherplatz]]></language></name>
+	<public_name><language id="1" xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/languages/1"><![CDATA[Disk space]]></language><language id="2" xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/languages/2"><![CDATA[Disk space]]></language></public_name>
+<associations>
+<product_option_values node_type="product_option_value">
+	<product_option_value xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/product_option_values/1">
+	<id><![CDATA[1]]></id>
+	</product_option_value>
+	<product_option_value xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/product_option_values/2">
+	<id><![CDATA[2]]></id>
+	</product_option_value>
+	<product_option_value xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/product_option_values/8">
+	<id><![CDATA[8]]></id>
+	</product_option_value>
+	<product_option_value xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/product_option_values/9">
+	<id><![CDATA[9]]></id>
+	</product_option_value>
+	<product_option_value xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/product_option_values/12">
+	<id><![CDATA[12]]></id>
+	</product_option_value>
+	<product_option_value xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/product_option_values/13">
+	<id><![CDATA[13]]></id>
+	</product_option_value>
+	<product_option_value xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/product_option_values/15">
+	<id><![CDATA[15]]></id>
+	</product_option_value>
+	<product_option_value xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/product_option_values/16">
+	<id><![CDATA[16]]></id>
+	</product_option_value>
+	<product_option_value xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/product_option_values/17">
+	<id><![CDATA[17]]></id>
+	</product_option_value>
+</product_option_values>
+</associations>
+</product_option>
+</prestashop>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<employee>
+	<id><![CDATA[1]]></id>
+	<id_lang xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/languages/1"><![CDATA[1]]></id_lang>
+	<last_passwd_gen><![CDATA[2014-02-15 10:59:26]]></last_passwd_gen>
+	<stats_date_from><![CDATA[2014-01-15]]></stats_date_from>
+	<stats_date_to><![CDATA[2014-02-15]]></stats_date_to>
+	<passwd><![CDATA[683a8e56889a691d8efba7fce48876e1]]></passwd>
+	<lastname><![CDATA[Local]]></lastname>
+	<firstname><![CDATA[Horst]]></firstname>
+	<email><![CDATA[horst@localhost.local]]></email>
+	<active><![CDATA[1]]></active>
+	<id_profile><![CDATA[1]]></id_profile>
+	<bo_color></bo_color>
+	<default_tab><![CDATA[1]]></default_tab>
+	<bo_theme><![CDATA[default]]></bo_theme>
+	<bo_width><![CDATA[0]]></bo_width>
+	<bo_show_screencast><![CDATA[1]]></bo_show_screencast>
+</employee>
+</prestashop>

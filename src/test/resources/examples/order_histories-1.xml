@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<order_history>
+	<id><![CDATA[1]]></id>
+	<id_order_state xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/order_states/1"><![CDATA[1]]></id_order_state>
+	<id_order xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/orders/1"><![CDATA[1]]></id_order>
+	<id_employee><![CDATA[0]]></id_employee>
+	<date_add><![CDATA[2014-02-15 16:59:55]]></date_add>
+</order_history>
+</prestashop>

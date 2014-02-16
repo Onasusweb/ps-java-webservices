@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<delivery>
+	<id><![CDATA[1]]></id>
+	<id_carrier xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/carriers/2"><![CDATA[2]]></id_carrier>
+	<id_range_price xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/price_ranges/1"><![CDATA[1]]></id_range_price>
+	<id_range_weight><![CDATA[0]]></id_range_weight>
+	<id_zone xlink:href="http://127.0.0.1/prestashop_1.5.6.2/api/zones/1"><![CDATA[1]]></id_zone>
+	<id_shop><![CDATA[1]]></id_shop>
+	<id_shop_group><![CDATA[1]]></id_shop_group>
+	<price><![CDATA[0.000000]]></price>
+</delivery>
+</prestashop>

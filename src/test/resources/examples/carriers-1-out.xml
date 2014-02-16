@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prestashop>
+    <carrier>
+        <id>1</id>
+        <deleted>0</deleted>
+        <is_module>0</is_module>
+        <id_tax_rules_group>1</id_tax_rules_group>
+        <id_reference>1</id_reference>
+        <name>LOCALHOST</name>
+        <active>1</active>
+        <is_free>0</is_free>
+        <url></url>
+        <shipping_handling>0</shipping_handling>
+        <shipping_external>0</shipping_external>
+        <range_behavior>0</range_behavior>
+        <shipping_method>1</shipping_method>
+        <max_width>0</max_width>
+        <max_height>0</max_height>
+        <max_depth>0</max_depth>
+        <max_weight>0.000000</max_weight>
+        <grade>0</grade>
+        <external_module_name></external_module_name>
+        <need_range>0</need_range>
+        <position>0</position>
+        <delay>
+        </delay>
+    </carrier>
+</prestashop>

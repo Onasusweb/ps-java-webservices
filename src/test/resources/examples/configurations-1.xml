@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<configuration>
+	<id><![CDATA[1]]></id>
+	<value><![CDATA[1]]></value>
+	<name><![CDATA[PS_LANG_DEFAULT]]></name>
+	<id_shop_group></id_shop_group>
+	<id_shop></id_shop>
+	<date_add><![CDATA[2014-02-15 16:59:03]]></date_add>
+	<date_upd><![CDATA[2014-02-15 16:59:03]]></date_upd>
+</configuration>
+</prestashop>

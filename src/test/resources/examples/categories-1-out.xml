@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prestashop>
+    <category>
+        <id>1</id>
+        <id_parent>0</id_parent>
+        <level_depth>0</level_depth>
+        <nb_products_recursive>7</nb_products_recursive>
+        <active>1</active>
+        <id_shop_default>1</id_shop_default>
+        <is_root_category>0</is_root_category>
+        <position>1</position>
+        <date_add>2014-02-15 16:59:09</date_add>
+        <date_upd>2014-02-15 16:59:09</date_upd>
+        <name></name>
+        <link_rewrite></link_rewrite>
+        <description></description>
+        <meta_title></meta_title>
+        <meta_description></meta_description>
+        <meta_keywords></meta_keywords>
+        <associations>
+            <categories>
+                <category>
+                    <id>2</id>
+                </category>
+            </categories>
+            <products/>
+        </associations>
+    </category>
+</prestashop>

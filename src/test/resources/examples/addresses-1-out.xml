@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prestashop>
+    <address>
+        <id>1</id>
+        <id_customer>0</id_customer>
+        <id_manufacturer>1</id_manufacturer>
+        <id_supplier>0</id_supplier>
+        <id_warehouse>0</id_warehouse>
+        <id_country>21</id_country>
+        <id_state>0</id_state>
+        <alias>manufacturer</alias>
+        <company></company>
+        <lastname>JOBS</lastname>
+        <firstname>STEVE</firstname>
+        <vat_number></vat_number>
+        <address1>1 Infinite Loop</address1>
+        <address2></address2>
+        <postcode>95014</postcode>
+        <city>Cupertino</city>
+        <other></other>
+        <phone>(800) 275-2273</phone>
+        <phone_mobile></phone_mobile>
+        <dni></dni>
+        <deleted>0</deleted>
+        <date_add>2014-02-15 16:59:50</date_add>
+        <date_upd>2014-02-15 16:59:50</date_upd>
+    </address>
+</prestashop>
